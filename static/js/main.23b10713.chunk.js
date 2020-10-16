@@ -1,2 +1,0 @@
-(this["webpackJsonpcayama-spa"]=this["webpackJsonpcayama-spa"]||[]).push([[0],[,,,function(e,a,t){e.exports=t(10)},,,,,function(e,a,t){},function(e,a,t){},function(e,a,t){"use strict";t.r(a);var n=t(0),c=t.n(n),r=t(2),l=t.n(r);t(8),t(9);var o=function(){return c.a.createElement("div",{className:"App"},c.a.createElement("header",{className:"App-header"},"hello world i'm cayama"))};l.a.render(c.a.createElement(c.a.StrictMode,null,c.a.createElement(o,null)),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.23b10713.chunk.js.map
