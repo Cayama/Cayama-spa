@@ -15,7 +15,7 @@ const isDisabled = (street, number, pay) => {
 const checkout = (street, number, pay, object) => {
   const text = `Olá gostaria de receber${object.map((el) => " "+ el.quantity + " produto(s) " + el.name + ", no tamanho " + el.size )}
   , em rua: ${street} número: ${number}. a forma de pagamento vai ser em ${pay} ok?`
-  return window.location.assign(`https://wa.me/${5531973481195}?text=${text}`)
+  return window.location.assign(`https://wa.me/${5531996471888}?text=${text}`)
 };
 
 function App() {

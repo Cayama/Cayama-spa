@@ -8,7 +8,7 @@ const isDisabled = (street, number, pay, mySize) => {
 const checkout = (street, number, pay, object, quantity, mySize) => {
   const text = `Olá gostaria de receber ${quantity} produto(s) ${object.name}, 
   no tamanho ${mySize}, em rua: ${street} número: ${number}. a forma de pagamento vai ser em ${pay} ok?`
-  return window.location.assign(`https://wa.me/${5531973481195}?text=${text}`)
+  return window.location.assign(`https://wa.me/${5531996471888}?text=${text}`)
 };
 
 const checkCart = (item, myCart, quantity, mySize) => {
