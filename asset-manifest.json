@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cayama-spa/static/css/main.fcdbfcf3.chunk.css",
-    "main.js": "/cayama-spa/static/js/main.d0c895e5.chunk.js",
-    "main.js.map": "/cayama-spa/static/js/main.d0c895e5.chunk.js.map",
+    "main.css": "/cayama-spa/static/css/main.ad788bd8.chunk.css",
+    "main.js": "/cayama-spa/static/js/main.630ed148.chunk.js",
+    "main.js.map": "/cayama-spa/static/js/main.630ed148.chunk.js.map",
     "runtime-main.js": "/cayama-spa/static/js/runtime-main.0c0120ba.js",
     "runtime-main.js.map": "/cayama-spa/static/js/runtime-main.0c0120ba.js.map",
     "static/js/2.63a1f174.chunk.js": "/cayama-spa/static/js/2.63a1f174.chunk.js",
     "static/js/2.63a1f174.chunk.js.map": "/cayama-spa/static/js/2.63a1f174.chunk.js.map",
     "index.html": "/cayama-spa/index.html",
-    "precache-manifest.a42ee8f183a4f2810ec887247f4ecd1d.js": "/cayama-spa/precache-manifest.a42ee8f183a4f2810ec887247f4ecd1d.js",
+    "precache-manifest.b05ab076145b0388a88bdba1913599c5.js": "/cayama-spa/precache-manifest.b05ab076145b0388a88bdba1913599c5.js",
     "service-worker.js": "/cayama-spa/service-worker.js",
-    "static/css/main.fcdbfcf3.chunk.css.map": "/cayama-spa/static/css/main.fcdbfcf3.chunk.css.map",
+    "static/css/main.ad788bd8.chunk.css.map": "/cayama-spa/static/css/main.ad788bd8.chunk.css.map",
     "static/js/2.63a1f174.chunk.js.LICENSE.txt": "/cayama-spa/static/js/2.63a1f174.chunk.js.LICENSE.txt",
     "static/media/cart.svg": "/cayama-spa/static/media/cart.ddcfd301.svg",
     "static/media/img1.png": "/cayama-spa/static/media/img1.c7860a83.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.0c0120ba.js",
     "static/js/2.63a1f174.chunk.js",
-    "static/css/main.fcdbfcf3.chunk.css",
-    "static/js/main.d0c895e5.chunk.js"
+    "static/css/main.ad788bd8.chunk.css",
+    "static/js/main.630ed148.chunk.js"
   ]
 }

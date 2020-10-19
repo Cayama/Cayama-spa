@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cayama-spa/precache-manifest.a42ee8f183a4f2810ec887247f4ecd1d.js"
+  "/cayama-spa/precache-manifest.b05ab076145b0388a88bdba1913599c5.js"
 );
 
 self.addEventListener('message', (event) => {
