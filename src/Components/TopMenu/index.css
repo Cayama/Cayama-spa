@@ -7,6 +7,10 @@
   width: 100%;
 }
 
+.cart-button {
+  padding: 10px
+}
+
 .button-hamburgue {
   color: #ffe1ba;
   cursor: pointer;
