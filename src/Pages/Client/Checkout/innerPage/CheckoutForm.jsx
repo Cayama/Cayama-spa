@@ -2,7 +2,7 @@ import React from 'react';
 
 const CheckoutForm = ({ submitPurchase, onChangePay, onChangeStreet, onChangeNumber, disableButton }) => {
   return (
-    <form onSubmit={(event) => submitPurchase(event)}>
+    <form>
       <div className="street-number-checkout">
         <label className="street-number-label" htmlFor="address">
           Rua:
@@ -43,9 +43,10 @@ const CheckoutForm = ({ submitPurchase, onChangePay, onChangeStreet, onChangeNum
       <div className="checkout-button-page-container">
         <button
           className="checkout-page-button"
+          onClick={submitPurchase}
           disabled={disableButton()}
           data-testid="checkout-finish-btn"
-          type="submit"
+          type="button"
         >
           Finalizar Compra
         </button>

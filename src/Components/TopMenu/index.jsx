@@ -10,7 +10,7 @@ const renderTitle = (path) => {
     case '/checkout': return 'Checkout';
     case '/': return 'Cayama';
     case '/cayama-spa': return 'Cayama';
-    default: return 'TryBeer';
+    default: return 'Cayama';
   }
 }
 
