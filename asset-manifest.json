@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cayama-spa/static/css/main.752db531.chunk.css",
-    "main.js": "/cayama-spa/static/js/main.c95fa7d6.chunk.js",
-    "main.js.map": "/cayama-spa/static/js/main.c95fa7d6.chunk.js.map",
+    "main.js": "/cayama-spa/static/js/main.19605aaf.chunk.js",
+    "main.js.map": "/cayama-spa/static/js/main.19605aaf.chunk.js.map",
     "runtime-main.js": "/cayama-spa/static/js/runtime-main.0c0120ba.js",
     "runtime-main.js.map": "/cayama-spa/static/js/runtime-main.0c0120ba.js.map",
     "static/js/2.8aec8d2b.chunk.js": "/cayama-spa/static/js/2.8aec8d2b.chunk.js",
     "static/js/2.8aec8d2b.chunk.js.map": "/cayama-spa/static/js/2.8aec8d2b.chunk.js.map",
     "index.html": "/cayama-spa/index.html",
-    "precache-manifest.27894d83736312fc7d5d0d71f2dc0b15.js": "/cayama-spa/precache-manifest.27894d83736312fc7d5d0d71f2dc0b15.js",
+    "precache-manifest.30be748b45f41fcfa2ec356ad086b996.js": "/cayama-spa/precache-manifest.30be748b45f41fcfa2ec356ad086b996.js",
     "service-worker.js": "/cayama-spa/service-worker.js",
     "static/css/main.752db531.chunk.css.map": "/cayama-spa/static/css/main.752db531.chunk.css.map",
     "static/js/2.8aec8d2b.chunk.js.LICENSE.txt": "/cayama-spa/static/js/2.8aec8d2b.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.0c0120ba.js",
     "static/js/2.8aec8d2b.chunk.js",
     "static/css/main.752db531.chunk.css",
-    "static/js/main.c95fa7d6.chunk.js"
+    "static/js/main.19605aaf.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "327f657664762c52f7a8fd0497ee8f15",
+    "revision": "25d07e19d8736b6eecfb47005a7c60bf",
     "url": "/cayama-spa/index.html"
   },
   {
-    "revision": "857d9d3aded9dc4ba212",
+    "revision": "93099c25e2f1c9631334",
     "url": "/cayama-spa/static/css/main.752db531.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cayama-spa/static/js/2.8aec8d2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "857d9d3aded9dc4ba212",
-    "url": "/cayama-spa/static/js/main.c95fa7d6.chunk.js"
+    "revision": "93099c25e2f1c9631334",
+    "url": "/cayama-spa/static/js/main.19605aaf.chunk.js"
   },
   {
     "revision": "e5c3a272419e38155406",
