@@ -13,8 +13,8 @@ import {
 const Routers = () => (
   <Router>
     <Switch>
-      <Route exact path="/" component={ClientProduct} />
-      <Route path="/checkout" component={CheckoutPage} />
+      <Route exact path="/checkout" component={CheckoutPage} />
+      <Route path="/" component={ClientProduct} />
     </Switch>
   </Router>
 );
