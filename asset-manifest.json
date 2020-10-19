@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/cayama-spa/static/css/main.752db531.chunk.css",
-    "main.js": "/cayama-spa/static/js/main.86b7a875.chunk.js",
-    "main.js.map": "/cayama-spa/static/js/main.86b7a875.chunk.js.map",
+    "main.css": "/cayama-spa/static/css/main.fcdbfcf3.chunk.css",
+    "main.js": "/cayama-spa/static/js/main.d0c895e5.chunk.js",
+    "main.js.map": "/cayama-spa/static/js/main.d0c895e5.chunk.js.map",
     "runtime-main.js": "/cayama-spa/static/js/runtime-main.0c0120ba.js",
     "runtime-main.js.map": "/cayama-spa/static/js/runtime-main.0c0120ba.js.map",
-    "static/js/2.8aec8d2b.chunk.js": "/cayama-spa/static/js/2.8aec8d2b.chunk.js",
-    "static/js/2.8aec8d2b.chunk.js.map": "/cayama-spa/static/js/2.8aec8d2b.chunk.js.map",
+    "static/js/2.63a1f174.chunk.js": "/cayama-spa/static/js/2.63a1f174.chunk.js",
+    "static/js/2.63a1f174.chunk.js.map": "/cayama-spa/static/js/2.63a1f174.chunk.js.map",
     "index.html": "/cayama-spa/index.html",
-    "precache-manifest.ab54ec94dafb5678e55bbb6be9562021.js": "/cayama-spa/precache-manifest.ab54ec94dafb5678e55bbb6be9562021.js",
+    "precache-manifest.a42ee8f183a4f2810ec887247f4ecd1d.js": "/cayama-spa/precache-manifest.a42ee8f183a4f2810ec887247f4ecd1d.js",
     "service-worker.js": "/cayama-spa/service-worker.js",
-    "static/css/main.752db531.chunk.css.map": "/cayama-spa/static/css/main.752db531.chunk.css.map",
-    "static/js/2.8aec8d2b.chunk.js.LICENSE.txt": "/cayama-spa/static/js/2.8aec8d2b.chunk.js.LICENSE.txt",
+    "static/css/main.fcdbfcf3.chunk.css.map": "/cayama-spa/static/css/main.fcdbfcf3.chunk.css.map",
+    "static/js/2.63a1f174.chunk.js.LICENSE.txt": "/cayama-spa/static/js/2.63a1f174.chunk.js.LICENSE.txt",
+    "static/media/cart.svg": "/cayama-spa/static/media/cart.ddcfd301.svg",
     "static/media/img1.png": "/cayama-spa/static/media/img1.c7860a83.png",
     "static/media/img2.png": "/cayama-spa/static/media/img2.39a88dbb.png",
     "static/media/img3.png": "/cayama-spa/static/media/img3.138d7138.png",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0c0120ba.js",
-    "static/js/2.8aec8d2b.chunk.js",
-    "static/css/main.752db531.chunk.css",
-    "static/js/main.86b7a875.chunk.js"
+    "static/js/2.63a1f174.chunk.js",
+    "static/css/main.fcdbfcf3.chunk.css",
+    "static/js/main.d0c895e5.chunk.js"
   ]
 }
