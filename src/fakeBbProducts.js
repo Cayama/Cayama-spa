@@ -1,4 +1,4 @@
-import productone from "../src/images/download.jpeg";
+import productone from "./images/download.jpeg";
 
 const products = [
   {

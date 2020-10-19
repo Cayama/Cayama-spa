@@ -1,0 +1,227 @@
+@media (max-width: 414px) {
+  .checkout-general-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .checkout-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 95%;
+    padding: 10px;
+  }
+  
+  .checkout-card {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px -5px rgba(0,0,0,0.5);
+    width: 70%
+  }
+  
+  .trash-icon-delete {
+    cursor: pointer;
+  }
+  
+  .address-checkout-container {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px -5px rgba(0,0,0,0.5);
+    width: 70%;
+  }
+  
+  .address-checkout-content {
+    padding: 10px;
+  }
+  
+  .street-number-checkout {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+  }
+  
+  .street-number-checkout-input {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 100%
+  }
+  
+  .street-number-label {
+    width: 90%;
+    margin-top: 20px;
+  }
+  
+  .checkout-page-button {
+    border: none;
+    background-color: #FF9F00;
+    color: #faf7f4;
+    width: 300px;
+    height: 40px;
+    font-size: 1.2rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  
+  .checkout-button-page-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .payment-method {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px
+  }
+  
+  .payment-method-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px
+  }
+  
+  .payment-method-money {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-content: space-between;
+    width: 70%
+  }
+  
+  .payment-method-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-content: space-between;
+    margin-top: 10px;
+    width: 70%
+  }
+  
+  .checkout-products-header {
+    display: flex;
+    justify-content: start;
+  }
+}
+/* 
+@media (min-width: 415px) {
+  .checkout-general-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .checkout-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    padding: 10px;
+  }
+  
+  .checkout-card {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px -5px rgba(0,0,0,0.5);
+    width: 70%
+  }
+  
+  .trash-icon-delete {
+    cursor: pointer;
+  }
+  
+  .address-checkout-container {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px -5px rgba(0,0,0,0.5);
+    width: 70%;
+  }
+  
+  .address-checkout-content {
+    padding: 10px;
+  }
+  
+  .street-number-checkout {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+  }
+  
+  .street-number-checkout-input {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 100%
+  }
+  
+  .street-number-label {
+    width: 90%;
+    margin-top: 20px;
+  }
+  
+  .checkout-page-button {
+    border: none;
+    background-color: #FF9F00;
+    color: #faf7f4;
+    width: 300px;
+    height: 40px;
+    font-size: 1.2rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  
+  .checkout-button-page-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .payment-method {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px
+  }
+  
+  .payment-method-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px
+  }
+  
+  .payment-method-money {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-content: space-between;
+    width: 70%
+  }
+  
+  .payment-method-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-content: space-between;
+    margin-top: 10px;
+    width: 70%
+  }
+  
+  .checkout-products-header {
+    display: flex;
+    justify-content: start;
+  }
+} */

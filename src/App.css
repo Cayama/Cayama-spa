@@ -1,21 +1,26 @@
-.container {
-  width: 700px;
+@media (max-width: 414px) {
+  * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+  
+  .all {
+    padding: 5px;
+  }
 }
 
-.App-header {
-  margin: 20px;
-  display: flex;
-  justify-content: space-between;
+@media (min-width: 415px) {
+  * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+  
+  .all {
+    padding: 75px;
+  }
 }
 
-.cart-button {
-  border: none;
-  background-color: white;
-  cursor: pointer;
-}
-
-.cart {
-  display: flex;
-  align-self: flex-end;
-  height: 50px;
-}
