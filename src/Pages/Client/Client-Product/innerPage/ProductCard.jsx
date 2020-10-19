@@ -47,7 +47,7 @@ const ProductCard = ({ id, name, price, photo, index }) => {
               setSellingQuantity={setSellingQuantity}
             />
           </div>
-          <label htmlFor="size-options">Escolha seu tamanho:</label>
+          <label htmlFor="size-options">Tamanho:</label>
           <select onChange={(event) => handleSize(event)} id="size-options">
             <option name="size" value="P"></option>
             <option name="size" value="P">P</option>

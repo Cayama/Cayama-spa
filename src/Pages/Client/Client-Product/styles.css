@@ -91,3 +91,9 @@
   align-content: center;
   justify-content: center;
 }
+
+@media only screen and (max-width: 376px) {
+  .card-img {
+    height: 118px;
+  }
+}
